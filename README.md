@@ -1,1 +1,2 @@
 # odin-recipes
+This project reinforced and put into practice basic html skills like using headings, img and anchor elements, and lists. I first used GitHub to create a new repository for the project, then cloned it to my local machine using the shell. Then I created my homepage index file and added the boilerplate and began to link to other pages, and images. Along with practicing html skills, I also practiced making frequent Git additions and commits and became more comfortable with the Git workflow.
